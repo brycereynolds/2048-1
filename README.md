@@ -1,4 +1,5 @@
 2048
 ====
 
-The best game you'll ever hate.
+That is a fork of 2048 game.
+
