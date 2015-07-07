@@ -1,6 +1,6 @@
-2048
+2048 Challenge!
 ====
 
-That is a fork of 2048 game.
+Use this code and update the 2048 grid from 4x4 to 8x8. There are many opportunities for optimization and refactoring, make a judgement on the extent of your efforts here based on your allowed time for the challenge.
 
-This is used only for my private goals.
+What is 2048? [Check out the original!](http://gabrielecirulli.github.io/2048/)
